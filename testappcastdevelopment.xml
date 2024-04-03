@@ -6,7 +6,7 @@
             <title>Version 2.15.0</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Mon, 25 Mar 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.kolega.smart_hris_employee" sparkle:version="2.15.0" sparkle:os="android" />
+            <enclosure url="https://appdistribution.firebase.dev/i/ec64239251b0d88c" sparkle:version="2.15.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
